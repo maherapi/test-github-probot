@@ -1,8 +1,5 @@
 name: GitHub Actions Demo
-on: 
-  repository_dispatch:
-    types:
-      - created
+on: [pull_request]
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
