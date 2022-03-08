@@ -16,3 +16,7 @@ Tue 08 Mar 2022 03:37:55 PM +03
 ### The previous push seems it works, this is the seventh one
 Tue 08 Mar 2022 03:40:16 PM +03
 Yes it worked and now expirementing
+
+## Test Triggering Workflows
+### First try
+Tue 08 Mar 2022 04:16:14 PM +03
