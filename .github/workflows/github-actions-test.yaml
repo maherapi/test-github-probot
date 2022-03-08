@@ -1,6 +1,8 @@
 name: GitHub Actions Demo
 on: 
-  repository_dispatch
+  repository_dispatch:
+    types:
+      - created
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
